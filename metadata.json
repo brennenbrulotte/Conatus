@@ -1,0 +1,6 @@
+{
+    "name": "Conatus",
+    "creator": "Brennen",
+    "entry": "index.js",
+    "requires": ["RenderLib", "FontLib"]
+}
