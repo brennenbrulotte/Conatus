@@ -56,12 +56,12 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-**Attribution**
+## Attribution
 
 If You Share the Licensed Material (including in modified form), You must:
 
 1. retain the following if it is supplied by the Licensor with the Licensed Material:
-    - identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+    - identification of the creator(s) of the Licensed Material as Brennen Brulotte, and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
     - a copyright notice;
     - a notice that refers to this Public License;
     - a notice that refers to the disclaimer of warranties;
