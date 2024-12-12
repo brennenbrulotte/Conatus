@@ -1,5 +1,4 @@
 # Conatus
 
-~~still working on it i will work on it whenever i have motivation~~
-
-i made this a long time ago but people want the source code
+working on it still (not really pushing shit) but mostly not cheat-related
+ill make stuff when i have the time and ill push whenever i can
